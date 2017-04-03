@@ -1,7 +1,7 @@
 # Genetic Algorithm - 16x16 image
 
-This genetic algorithm evolves over time to try and form a 16x16 pre-uploaded image.
-Here are some examples:
+This genetic algorithm evolves over time to try and form a 16x16 pre-uploaded image. Based on [Dan Shiffman's Nature of Code](http://natureofcode.com/book/chapter-9-the-evolution-of-code/).
+Here are some examples (each gif is about 10 seconds long, so wait for it to loop to see the whole thing):
 
 **Noise to image of character 'A'**  
 
